@@ -19,5 +19,10 @@
 package lesson01.challenge02;
 
 public class Patisserie {
-
+	public static void main(String[] args) {
+		System.out.println("\n本日のおすすめです。\n");
+		System.out.println("シトロン      \\250");
+		System.out.println("ショコラ　　　\\280");
+		System.out.println("ピスターシュ　\\320");
+	}
 }
